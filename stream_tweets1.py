@@ -28,7 +28,7 @@ class StdOutListener(StreamListener):
         # That sets the api
         self.api = api
         # Create a file with 'data_' and the current time
-        self.filename = '/data/ravis/smmProject/twitter/tweets1'+'.csv'
+        self.filename = '/tweets1'+'.csv'
         # Create a new file with that filename
         csvFile = open(self.filename, 'w')
 
