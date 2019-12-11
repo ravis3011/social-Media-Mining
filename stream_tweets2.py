@@ -32,7 +32,7 @@ class smmListener(StreamListener):
         # That sets the api
         self.api = api
         # Create a file with 'data_' and the current time
-        self.filename = '/data/ravis/smmProject/twitter/tweets2'+'.csv'
+        self.filename = 'tweets2'+'.csv'
         # Create a new file with that filename
         csvFile = open(self.filename, 'w')
 
