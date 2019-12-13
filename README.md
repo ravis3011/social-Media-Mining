@@ -14,12 +14,16 @@ For more details refer: https://github.com/ravis3011/social-Media-Mining/blob/ma
 python3 stream-twitter1.py
 Reference : https://github.com/tweepy/tweepy/blob/master/examples/streaming.py
             https://chrisalbon.com/python/other/mine_a_twitter_hashtags_and_words/
+
 ### To execute the data extraction for set 2 twitter date range 1
 python3 stream-twitter2.py
 Reference: https://github.com/tweepy/tweepy/blob/master/examples/streaming.py
            https://chrisalbon.com/python/other/mine_a_twitter_hashtags_and_words/
+
 ### To execute the data extraction for set 2 twitter date range 2 (Simply run the file again)
 python3 stream-twitter2.py
+Reference : https://github.com/tweepy/tweepy/blob/master/examples/streaming.py
+            https://chrisalbon.com/python/other/mine_a_twitter_hashtags_and_words/
 
 ### To execute the data extraction using domain Listing for Reddit for set 1 and Set 2 date range(1)
 python3 reddit-posts.py
